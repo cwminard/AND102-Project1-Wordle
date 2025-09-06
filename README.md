@@ -4,25 +4,25 @@ Chelsea Minard's Project 1: Wordle for CodePath's AND102 course.
 
 Submitted by: **Chelsea Minard**
 
-**Wordle** is an android app that recreates a simple version of the popular word game [Wordle](https://www.nytimes.com/games/wordle/index.html). 
+**Wordle World!** is an android app that recreates a simple version of the popular word game [Wordle](https://www.nytimes.com/games/wordle/index.html). 
 
-Time spent: **X** hours spent in total
+Time spent: **4** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] **User has 3 chances to guess a random 4 letter word**
-- [ ] **After 3 guesses, user should no longer be able to submit another guess**
-- [ ] **After each guess, user sees the "correctness" of the guess**
-- [ ] **After all guesses are taken, user can see the target word displayed**
+- [X] **User has 3 chances to guess a random 4 letter word**
+- [X] **After 3 guesses, user should no longer be able to submit another guess**
+- [X] **After each guess, user sees the "correctness" of the guess**
+- [X] **After all guesses are taken, user can see the target word displayed**
 
 The following **optional** features are implemented:
 
 - [ ] User can toggle betweeen different word lists
 - [ ] User can see the 'correctness' of their guess through colors on the word 
 - [ ] User sees a visual change after guessing the correct word
-- [ ] User can tap a 'Reset' button to get a new word and clear previous guesses
+- [X] User can tap a 'Reset' button to get a new word and clear previous guesses
 - [ ] User will get an error message if they input an invalid guess
 - [ ] User can see a 'streak' record of how many words they've guessed correctly.
 
@@ -45,11 +45,11 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+As a beginner in Kotlin, understanding the syntax and how various conditionals and potential loops worked was challenging. I believe if I am to fine tune this project in the future, I would be able to implement this with fewer lines of code. Overall, this project was a fun introduction to Kotlin and gave me a better understanding of the actual language along with elements of UI/UX design.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2025 Chelsea Minard
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
